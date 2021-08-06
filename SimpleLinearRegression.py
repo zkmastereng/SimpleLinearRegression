@@ -3,7 +3,7 @@
 """
 Created on Fri Oct  2 23:20:18 2020
 
-@author: ozkan
+@author: ozkan 123
 """
 
 #%% import library
